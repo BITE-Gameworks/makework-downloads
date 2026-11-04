@@ -1,0 +1,9 @@
+{
+  "name": "makework-downloads",
+  "description": "Release archive for MakeWork",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update_downloads": "node tools/update-downloads.mjs"
+  }
+}
